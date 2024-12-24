@@ -5,8 +5,8 @@ title: Konstantinos Alatzas | About
 
 # Konstantinos Alatzas
 
-[instagram.com/konstantinos_alatzas](https://www.instagram.com/konstantinos_alatzas)
+* Calisthenics
 
-[github.com/konstantinosalatzas](https://www.github.com/konstantinosalatzas)
+* MEng Electrical and Computer Engineering, National Technical University of Athens
 
-[linkedin.com/in/konstantinos-alatzas](https://www.linkedin.com/in/konstantinos-alatzas)
+* Software Engineer, Analytics at Performance Technologies S.A.
