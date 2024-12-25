@@ -4,8 +4,6 @@ title: Test
 permalink: /test/
 ---
 
-<h1>Konstantinos Alatzas</h1>
-
 <a href="https://www.instagram.com/konstantinos_alatzas">instagram.com/konstantinos_alatzas</a><br>
 <br>
 <a href="https://www.github.com/konstantinosalatzas">github.com/konstantinosalatzas</a><br>
