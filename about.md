@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Konstantinos Alatzas | About
+title: About
 ---
 
 # Konstantinos Alatzas
