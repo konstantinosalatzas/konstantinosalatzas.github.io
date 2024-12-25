@@ -4,12 +4,12 @@ title: Konstantinos Alatzas
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
-  Let's go!
+  Let's go.
 
 # Build settings
 
 # If you clone the Minima repo and build locally, use this setting.
-theme: minima
+#theme: minima
 
 # As of November 2023, GitHub Pages still uses Minima 2.5.1 (https://pages.github.com/versions/). 
 # If you want to use the latest Minima version on GitHub Pages, use the following setting and 
