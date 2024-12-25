@@ -1,9 +1,8 @@
 ---
-layout: default
+layout: page
 title: Home
+permalink: /home/
 ---
-
-<h1>Konstantinos Alatzas</h1>
 
 <a href="https://www.instagram.com/konstantinos_alatzas">instagram.com/konstantinos_alatzas</a><br>
 <br>
