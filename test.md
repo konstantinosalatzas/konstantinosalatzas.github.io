@@ -4,15 +4,10 @@ title: Test
 permalink: /test/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+<h1>Konstantinos Alatzas</h1>
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+<a href="https://www.instagram.com/konstantinos_alatzas">instagram.com/konstantinos_alatzas</a><br>
+<br>
+<a href="https://www.github.com/konstantinosalatzas">github.com/konstantinosalatzas</a><br>
+<br>
+<a href="https://www.linkedin.com/in/konstantinos-alatzas">linkedin.com/in/konstantinos-alatzas</a><br>
