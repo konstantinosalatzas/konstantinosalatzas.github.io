@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Home
-permalink: /home/
+permalink: /
 ---
 
 <a href="https://www.instagram.com/konstantinos_alatzas">instagram.com/konstantinos_alatzas</a><br>
