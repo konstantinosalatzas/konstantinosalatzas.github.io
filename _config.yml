@@ -1,5 +1,7 @@
 title: Konstantinos Alatzas
-author: konstantinos.alatzas@performance.gr
+author:
+  name: Konstantinos Alatzas
+  email: konstantinos.alatzas@performance.gr
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
