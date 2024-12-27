@@ -11,5 +11,3 @@ I am Konstantinos Alatzas and this is my website, feel free to also find me on:
 * [GitHub](https://www.github.com/konstantinosalatzas)
 
 * [LinkedIn](https://www.linkedin.com/in/konstantinos-alatzas)
-
-or go to the [About](https://konstantinosalatzas.github.io/about/) page for a few information about me.
