@@ -4,7 +4,7 @@ title: Home
 permalink: /
 ---
 
-I am Konstantinos Alatzas, feel free to also find me on:
+I am Konstantinos Alatzas, feel free to find me on:
 
 * [Instagram](https://www.instagram.com/konstantinos_alatzas)
 
