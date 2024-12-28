@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-About me:
-
 * Calisthenics
 
 * MEng Electrical and Computer Engineering, National Technical University of Athens
