@@ -4,8 +4,7 @@ author:
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
-description: >
-  ~Let's go.
+description: ~Let's go.
 
 # Build settings
 
