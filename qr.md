@@ -8,4 +8,4 @@ After loading, the QR code will appear below:
 
 [![@konstantinos_alatzas](/assets/qr.png "@konstantinos_alatzas")](https://www.instagram.com/konstantinos_alatzas)
 
-Scan with your phone's camera and let's go!
+Scan and let's go!
