@@ -4,6 +4,6 @@ title: Instagram QR code
 permalink: /qr/
 ---
 
-After loading, scan the QR code that will appear and let's go!
+Let's go! After loading, the QR code will appear below:
 
 [![@konstantinos_alatzas](/assets/qr.png "@konstantinos_alatzas")](https://www.instagram.com/konstantinos_alatzas)
