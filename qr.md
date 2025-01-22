@@ -1,6 +1,6 @@
 ---
 layout: page
-title: QR
+title: Instagram profile QR code
 permalink: /qr/
 ---
 
