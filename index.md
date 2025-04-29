@@ -11,3 +11,5 @@ Feel free to find me on:
 * [GitHub](https://www.github.com/konstantinosalatzas), for programming projects
 
 * [LinkedIn](https://www.linkedin.com/in/konstantinos-alatzas), for professional summary
+
+and let's go!
