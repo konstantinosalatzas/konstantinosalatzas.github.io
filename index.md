@@ -6,7 +6,7 @@ permalink: /
 
 Feel free to find me on:
 
-* [Instagram](https://www.instagram.com/konstantinos_alatzas), for Calisthenics
+* [Instagram](https://www.instagram.com/konstantinos_alatzas), for calisthenics and more
 
 * [GitHub](https://www.github.com/konstantinosalatzas), for programming projects
 
