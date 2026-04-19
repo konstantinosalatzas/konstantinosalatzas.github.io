@@ -8,8 +8,8 @@ permalink: /recommendations/
 
 Resources about specific topics:
 
-* [Greek Mathematical Society Website](https://www.hms.gr)
+* [Greek Mathematical Society Website](https://hms.gr)
 
-* [Codeforces](https://www.codeforces.com)
+* [Codeforces](https://codeforces.com)
 
 * [Valentin OTZ YouTube channel](https://www.youtube.com/@ValentinOtz)
