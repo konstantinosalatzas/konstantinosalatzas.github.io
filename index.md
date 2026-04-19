@@ -12,4 +12,4 @@ Welcome to my website, feel free to check my:
 
 * [GitHub](https://www.github.com/konstantinosalatzas)
 
-or my [Recommendations](https://konstantinosalatzas.github.io/recommendations/) page
+or my [Recommendations](https://konstantinosalatzas.github.io/recommendations/) page, stay strong!
