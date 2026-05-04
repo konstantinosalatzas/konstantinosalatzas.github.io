@@ -14,4 +14,6 @@ Resources with interesting information about specific topics:
 
 * [Algorithms for Competitive Programming](https://cp-algorithms.com/index.html) - Algorithms and Data Structures for Competitive Programming
 
+* [Theoretical Computer Science Cheat Sheet](https://dl.acm.org/doi/pdf/10.1145/242581.242585) - Computer Science Mathematics
+
 * [Valentin OTZ YouTube channel](https://www.youtube.com/@ValentinOtz) - Planche and Calisthenics
