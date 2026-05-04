@@ -12,4 +12,6 @@ Resources with interesting information about specific topics:
 
 * [Codeforces](https://codeforces.com) - Competitive Programming
 
+* [Algorithms for Competitive Programming](https://cp-algorithms.com/index.html) - Algorithms and Data Structures for Competitive Programming
+
 * [Valentin OTZ YouTube channel](https://www.youtube.com/@ValentinOtz) - Planche and Calisthenics
