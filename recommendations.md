@@ -12,7 +12,7 @@ Resources with interesting information about specific topics:
 
 * [Codeforces](https://codeforces.com) - Competitive Programming
 
-* [Algorithms for Competitive Programming](https://cp-algorithms.com/index.html) - Algorithms and Data Structures for Competitive Programming
+* [Algorithms for Competitive Programming](https://cp-algorithms.com/index.html) - Algorithms and Data Structures
 
 * [Theoretical Computer Science Cheat Sheet](https://dl.acm.org/doi/pdf/10.1145/242581.242585) - Computer Science Mathematics
 
