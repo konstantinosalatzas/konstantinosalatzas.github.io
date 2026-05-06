@@ -17,3 +17,5 @@ Resources with interesting information about specific topics:
 * [Theoretical Computer Science Cheat Sheet](https://dl.acm.org/doi/pdf/10.1145/242581.242585) - Computer Science Mathematics
 
 * [Valentin OTZ YouTube channel](https://www.youtube.com/@ValentinOtz) - Planche and Calisthenics
+
+* [S2000.club](https://www.s2000.club/) - Honda S2000
