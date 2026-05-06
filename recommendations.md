@@ -8,7 +8,7 @@ permalink: /recommendations/
 
 Resources with interesting information about specific topics:
 
-* [Greek Mathematical Society Website](https://hms.gr) - Mathematics (in Greek)
+* [Greek Mathematical Society](https://hms.gr) - Mathematics (in Greek)
 
 * [Codeforces](https://codeforces.com) - Competitive Programming
 
